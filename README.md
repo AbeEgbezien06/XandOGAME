@@ -77,10 +77,6 @@ Praise Agede Alfred = Tech Enthusiast & Developer
 This project is licensed under the MIT License.
 Feel free to use, modify, and share this project for learning or personal use.
 
-🌟 Show your support!
-If you like this project, leave a ⭐ on the repo. It helps others discover it too!
-
-
 ![game](https://github.com/user-attachments/assets/40e6ff17-79f7-436c-8e05-aee8df8433d3)
 ![input](https://github.com/user-attachments/assets/3fc5752a-dfbd-493d-a973-1284842f1b47)
 ![welcome](https://github.com/user-attachments/assets/bc8c7402-9f71-42f3-81bd-10b584811ece)
