@@ -68,10 +68,8 @@ Track win counts for players
 Allow game theme customization (dark/light mode)
 
 🧑‍💻 Author
-Barnabas Egbezien
-Cyber Security proffessional, Developer & UI Enthusiast
-Praise Agede Alfred
-Tech Enthusiast & Developer
+Barnabas Egbezien =Cyber Security proffessional, Developer & UI Enthusiast.
+Praise Agede Alfred = Tech Enthusiast & Developer
 
 📫 Reach me on LinkedIn
 
@@ -82,11 +80,7 @@ Feel free to use, modify, and share this project for learning or personal use.
 🌟 Show your support!
 If you like this project, leave a ⭐ on the repo. It helps others discover it too!
 
-markdown
-Copy
-Edit
 
----
 
 ### ✅ Tips for Usage:
 - Create a `screenshots/` folder and save three PNG images (`welcome.png`, `input.png`, `game.png`) for visual appeal.
