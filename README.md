@@ -85,6 +85,8 @@ If you like this project, leave a ⭐ on the repo. It helps others discover it t
 ### ✅ Tips for Usage:
 - Create a `screenshots/` folder and save three PNG images (`welcome.png`, `input.png`, `game.png`) for visual appeal.
 - Replace `https://github.com/your-username/xandogame.git` with your actual repo link.
-- You can copy this directly into a file called `README.md`.
+- You can copy this directly into a file called `README.md`.![welcome](https://github.com/user-attachments/assets/d7534b1c-4a6f-4f5b-8b88-9f5029977cda)
+![input](https://github.com/user-attachments/assets/ba91d5b9-6c5b-4914-b96b-4e577c3cd634)
+![game](https://github.com/user-attachments/assets/c4ac27cb-440a-486a-aa6a-79db010c4c2b)
 
-Would you like me to help generate the screenshots too?
+
