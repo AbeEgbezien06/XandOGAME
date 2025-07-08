@@ -195,11 +195,18 @@ Entry point to the program. Ensures GUI runs on the Event Dispatch Thread (EDT).
 
 ✅ Summary
 Section	Purpose
-buildWelcome	Handles welcome screen and name input
-buildGrid	Builds 3x3 game UI and restart button
-handleMove	Controls gameplay logic (moves, win, draw)
-animateClick	Adds button-click visual effect
-checkWin	Checks for winning combinations
-showWinner	Shows popup with winner or draw
-resetGame	Restarts the game
-Helpers	Clean reusable UI design methods
+buildWelcome=	Handles welcome screen and name input
+
+buildGrid=	Builds 3x3 game UI and restart button
+
+handleMove=	Controls gameplay logic (moves, win, draw)
+
+animateClick=	Adds button-click visual effect
+
+checkWin=	Checks for winning combinations
+
+showWinner=	Shows popup with winner or draw
+
+resetGame=	Restarts the game
+
+Helpers=	Clean reusable UI design methods
