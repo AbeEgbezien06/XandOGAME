@@ -81,12 +81,12 @@ Feel free to use, modify, and share this project for learning or personal use.
 If you like this project, leave a ⭐ on the repo. It helps others discover it too!
 
 
+![game](https://github.com/user-attachments/assets/40e6ff17-79f7-436c-8e05-aee8df8433d3)
+![input](https://github.com/user-attachments/assets/3fc5752a-dfbd-493d-a973-1284842f1b47)
+![welcome](https://github.com/user-attachments/assets/bc8c7402-9f71-42f3-81bd-10b584811ece)
 
 ### ✅ Tips for Usage:
 - Create a `screenshots/` folder and save three PNG images (`welcome.png`, `input.png`, `game.png`) for visual appeal.
 - Replace `https://github.com/your-username/xandogame.git` with your actual repo link.
-- You can copy this directly into a file called `README.md`.![welcome](https://github.com/user-attachments/assets/d7534b1c-4a6f-4f5b-8b88-9f5029977cda)
-![input](https://github.com/user-attachments/assets/ba91d5b9-6c5b-4914-b96b-4e577c3cd634)
-![game](https://github.com/user-attachments/assets/c4ac27cb-440a-486a-aa6a-79db010c4c2b)
-
+- You can copy this directly into a file called `README.md`
 
